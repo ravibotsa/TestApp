@@ -1,0 +1,13 @@
+git config --global user.name
+git add .
+git commit -m ""
+git push 
+git pull
+git branch branchname
+git push --set-upstream 
+git merge
+git checkout
+git fetch
+git status
+
+
